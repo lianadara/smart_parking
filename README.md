@@ -25,10 +25,10 @@ By successfully connecting the interface and the database, we enable our Java-ba
 
 Here are some displays from the interface that have been created:
 ![image](https://github.com/lianadara/smart_parking/assets/106791473/0a1da44d-ce3d-4fcf-9938-5875b570c2c9)
-![image](https://github.com/lianadara/smart_parking/assets/106791473/5bf24ba7-7434-429f-97de-b0c523b043f4)
-![image](https://github.com/lianadara/smart_parking/assets/106791473/218861e4-5b2a-45f9-a671-d9f5ee9ba2c4)
-![image](https://github.com/lianadara/smart_parking/assets/106791473/c8e33d80-5b13-4501-9f0a-a6a097c6b359)
-![image](https://github.com/lianadara/smart_parking/assets/106791473/c6e9f074-9c79-4b9f-b16e-9e22ed2092c0)
-![image](https://github.com/lianadara/smart_parking/assets/106791473/b4ac2852-60e2-4d36-8968-9c06e708758a)
+![Screenshot (33)](https://github.com/lianadara/smart_parking/assets/106791473/0a9589c0-b1bc-4c27-8645-a3053a3676e7)
+![Screenshot (41)](https://github.com/lianadara/smart_parking/assets/106791473/6aba1947-1735-4b7d-90ab-c6c91c70bb9a)
+![Screenshot (35)](https://github.com/lianadara/smart_parking/assets/106791473/7236b13a-54d0-4b21-9626-070dc3b57d3b)
+![Screenshot (37)](https://github.com/lianadara/smart_parking/assets/106791473/22ceca07-eb26-4986-b827-dc9d02aff9e9)
+![Screenshot (39)](https://github.com/lianadara/smart_parking/assets/106791473/e04c36cc-7848-4f25-9b99-a150aea1da1b)
 
 This is the [demo link](https://intip.in/ProjectTBDKelompok3/) for this Smart Parking System.
